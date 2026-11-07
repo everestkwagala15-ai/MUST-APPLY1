@@ -12,7 +12,7 @@ After publishing this repository with GitHub Pages, open the Pages URL provided 
 - `login.html` — sign-in form demonstration
 - `register.html` — account registration form demonstration
 - `dashboard.html` — sample student dashboard
-- `css/style.css` — website styling
+- `style.css` — website styling
 
 ## Technologies
 
